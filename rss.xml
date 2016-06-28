@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Body. Mind. Soul. Lead.]]></title>
-        <description><![CDATA[Body. Mind. Soul. Lead.]]></description>
+        <title><![CDATA[What you love - Who you connect with - What  you focus on - How you make a difference]]></title>
+        <description><![CDATA[What you love - Who you connect with - What  you focus on - How you make a difference]]></description>
         <link>https://thegrid.ai/body-mind-soul-lead/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 06:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2016 22:57:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/body-mind-soul-lead/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/body-mind-soul-lead/you-are-stronger-than-you-think/index.html</link>
             <guid isPermaLink="false">46933409-dcf6-4519-91b8-add8e922faa3</guid>
             <pubDate>Tue, 28 Jun 2016 06:24:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77146dbb-1d41-4bbf-a754-d64a57e083b0.png">]]></description>
+            <link>https://thegrid.ai/body-mind-soul-lead/d0774047-30ce-4f78-8ef3-f1e53ff57bee/index.html</link>
+            <guid isPermaLink="false">d0774047-30ce-4f78-8ef3-f1e53ff57bee</guid>
+            <pubDate>Tue, 28 Jun 2016 22:57:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
