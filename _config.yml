@@ -1,0 +1,28 @@
+name: Body. Mind. Soul. Lead.
+favicon: null
+layout_spectrum: 0.9927716569509357
+typography_spectrum: 0.7561219905037433
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.09462132467888296
+  lightness: 0.20214669010601938
+  saturation: 0.4872508447151631
+  rhythmicContrast: 0.058657527435570955
+purpose: []
