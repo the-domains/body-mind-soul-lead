@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: You Are Stronger Than You Think
-datePublished: '2016-06-28T06:16:10.043Z'
-dateModified: '2016-06-28T06:16:03.094Z'
+datePublished: '2016-06-28T06:24:30.212Z'
+dateModified: '2016-06-28T06:16:48.152Z'
 title: ''
 author: []
 authors: []
 publisher: null
-starred: false
 sourcePath: _posts/2016-06-28-you-are-stronger-than-you-think.md
+starred: true
 url: you-are-stronger-than-you-think/index.html
 _type: Article
 
