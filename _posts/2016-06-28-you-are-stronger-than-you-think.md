@@ -5,13 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: You Are Stronger Than You Think
-datePublished: '2016-06-28T06:24:30.212Z'
-dateModified: '2016-06-28T06:16:48.152Z'
+datePublished: '2016-06-28T23:02:22.636Z'
+dateModified: '2016-06-28T23:01:52.523Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-28-you-are-stronger-than-you-think.md
 authors: []
 publisher: null
-sourcePath: _posts/2016-06-28-you-are-stronger-than-you-think.md
 starred: true
 url: you-are-stronger-than-you-think/index.html
 _type: Article
@@ -23,7 +23,9 @@ You Are Stronger Than You Think
 
 Recently I tried kayaking for the first time. Maybe it wasn't the smartest way to start kayaking, but I paddled with my sons over 4 miles to a campsite in the Sam Houston National Forest. We had to make it across the wide and busy part of Lake Conroe. By sunset. 
 
-Did I mention it was our first time? And we left after 6pm. We arrived in time to see a beautiful sunset before setting up camp. We also arrived at a discovery--for three novices (including one overweight fifty-something) we saw we were stronger than we thought.
+Did I mention it was our first time? And that we left after 6pm? And we would have to come back four miles rain or shine? 
+
+We arrived in time to see a beautiful sunset before setting up camp. We also arrived at a discovery--for three novices (including one overweight fifty-something) we saw we were stronger than we thought.
 
 You are, too. If you can read this 
 
@@ -31,6 +33,7 @@ You are, too. If you can read this
 * you can help someone today
 * you can say "No" to a good thing so that you can say "Yes!" to an awesome thing
 
-You likely have all kinds of limitations and excuses and fears, but you are stronger that you think. Think stronger and try that new thing or re-try that old, failed goal.
+You likely have all kinds of limitations and excuses and fears, but you are stronger that you think. _Think_ stronger and try that new thing or re-try that old, failed goal.
 
 Don't miss your beautiful sunset or the beautiful discovery that comes when you try--**_you are stronger than you think._**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b88535c7-1fb5-4429-985e-443092f67d6a.jpg)
